@@ -24,4 +24,5 @@ func FolhaDePag[TipoFuncionario FuncionarioCLT | Estagiario | FuncionarioPJ](fun
 		return 0.0
 
 	}
+
 }
